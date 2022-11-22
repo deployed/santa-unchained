@@ -1,0 +1,80 @@
+[project]
+name = "santa_unchained"
+version = "1.0.0"
+dependencies = [
+    "Django",
+    "django-extensions",
+    "django-debug-toolbar",
+    "django-admin-display",
+    "psycopg2-binary",
+    "ipython",
+    "environs",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "pytest-django",
+    "pytest-sugar",
+    "pytest-xdist",
+    "flake8",
+    "flake8-formatter-abspath",
+    "black",
+    "isort",
+]
+
+[tool.black]
+max-line-length = 88
+
+[tool.isort]
+profile = "black"
+
+[tool.coverage.report]
+branch = true
+exclude_lines = [
+    "pragma: no cover",
+    "if TYPE_CHECKING:"
+]
+omit = [
+    "**/fixtures.py",
+    "manage.py",
+    "**/wsgi.py",
+    "**/settings/*.py",
+    "**/migrations/*.py",
+]
+
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "santa_unchained.settings.local"
+python_files = ["tests.py", "test_*.py", "*_tests.py"]
+norecursedirs = ["deployment*",
+                 ".git/*",
+                 ".pytest_cache/*",
+                 "migrations/*",
+                 "santa_unchained/frontend/*"
+]
+addopts = "--nomigrations"
+
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+envlist = flake8, black, isort
+skipsdist = True
+[gh-actions]
+python =
+    3.10: py310
+[testenv:flake8]
+basepython = python
+deps = flake8
+commands = flake8 --format=default santa_unchained
+[testenv:black]
+deps = black
+commands = black --check santa_unchained
+[testenv:isort]
+deps = isort
+commands = isort --check santa_unchained
+[testenv]
+setenv = PYTHONPATH = {toxinidir}
+deps = -r requirements/dev.txt
+commands = pytest santa_unchained
+"""

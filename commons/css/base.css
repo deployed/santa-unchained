@@ -1,0 +1,17 @@
+header {
+    padding: 4rem;
+}
+
+main {
+    padding: 6rem;
+}
+
+footer {
+    background-color: #aaa;
+    padding: 4rem;
+}
+
+footer img {
+    height: 17px;
+    margin: 0 3px;
+}
