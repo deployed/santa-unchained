@@ -12,3 +12,5 @@ DATABASES = {
         "HOST": env("POSTGRES_HOST", "localhost"),
     }
 }
+
+CSRF_TRUSTED_ORIGINS = ["https://*.github.dev"]
