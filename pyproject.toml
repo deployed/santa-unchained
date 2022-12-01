@@ -78,3 +78,6 @@ setenv = PYTHONPATH = {toxinidir}
 deps = -r requirements/dev.txt
 commands = pytest santa_unchained
 """
+
+[tool.setuptools]
+py-modules = ["santa_unchained"]
