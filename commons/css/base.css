@@ -1,17 +1,117 @@
-header {
-    padding: 4rem;
+:root {
+    --color-primary: #6DE9AC;
+    --color-primary-text: #0f0f0f;
+    --color-secondary: #0C2237
 }
 
+body {
+    background-image: linear-gradient(to bottom right, #0f0f0f, #04216b);
+    font-family: "Asap", sans-serif;
+}
+
+
 main {
-    padding: 6rem;
+    flex: 1;
 }
 
 footer {
-    background-color: #aaa;
-    padding: 4rem;
+    background-color: white;
+    padding: 2rem;
 }
 
-footer img {
-    height: 17px;
-    margin: 0 3px;
+footer .logo-deployed {
+    max-width: 200px;
+    border-left: 3px solid black;
+    padding-left: 15px;
+    margin-left: 10px;
+}
+
+
+footer .logo-kernel {
+    height: 45px;
+    margin-bottom: -8px;
+}
+
+
+footer .social-icon {
+    width: 100px;
+}
+
+.logs-container {
+    margin-bottom: 10px;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("../images/gwiazdki.svg"), url("../images/tlo.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.nav .main-logo {
+    height: 50px;
+    max-height: none;
+}
+
+.nav a {
+    color: white;
+    font-weight: bold;
+}
+
+.nav a.button {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.button {
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.button.primary {
+    color: var(--color-primary-text);
+}
+
+.button.primary.active {
+    background-color: #E88D9D;
+}
+
+.button.secondary {
+    background-color: var(--color-secondary);
+    color: white;
+}
+
+.radius-10 {
+    border-radius: 10px;
+}
+
+.radius-100 {
+    border-radius: 100px;
+}
+
+.card {
+    box-shadow: none;
+    border: 1px solid lightgray;
+    border-radius: 40px;
+    padding: 2rem 3rem;
+}
+
+.stack {
+    display: flex;
+    flex-direction: column;
+}
+
+.helptext {
+    font-size: 0.8em;
+    color: var(--color-grey)
 }

@@ -1,14 +1,26 @@
 {% extends 'base.html' %}
+{% load static i18n %}
+
+{% block extra_styles %}
+  <link rel="stylesheet" href="{% static 'css/index.css' %}">
+{% endblock %}
 
 {% block content %}
-    <div class="card">
-        <header>
-            <h4>Hello, Kernel!</h4>
-        </header>
-        <p>This is example card component from <a href="https://jenil.github.io/chota/" target="_blank">chota</a> framework.</p>
-        <div class="is-right">
-            <a class="button primary">Submit</a>
-            <a class="button">Cancel</a>
+  <div class="row">
+    <div class="col-7-md col-12">
+      <div class="text-container">
+        <div class="badge">
+          {% trans "Do you believe in magic?" %}
         </div>
+        <h1 class="text-header-1">{% trans "Make your dreams come true" %}</h1>
+        <h2 class="text-header-2">{% trans "with us" %}</h2>
+        <h3 class="text-header-3">{% trans "Create a letter to Santa Claus and await your dream gift." %}</h3>
+      </div>
     </div>
+    <div class="col-5-md col-12 is-center">
+      <div class="main-image-container">
+        <img src="{% static 'images/santa.png' %}" alt="Santa Claus" class="main-image">
+      </div>
+    </div>
+  </div>
 {% endblock %}

@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static i18n %}
+
+{% block extra_styles %}
+  <link rel="stylesheet" href="{% static 'css/index.css' %}">
+{% endblock %}
+
+{% block content %}
+  <div class="row">
+    <div class="col-7-md col-12">
+      <div class="text-container">
+        <div class="badge">
+          {% trans "Done!" %}
+        </div>
+        <h1 class="text-header-1">{% trans "Thanks for your" %}</h1>
+        <h2 class="text-header-2">{% trans "letter!" %}</h2>
+        <h3 class="text-header-3">{% trans "You can track the status of your wishlist" %}</h3>
+        <div class="button-container">
+          {% comment %}
+          Fill in url to wishlist detail.
+          {% endcomment %}
+          <a class="button primary radius-100"
+             href="#">{% trans "Track order" %}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-5-md col-12 is-center">
+      <div class="main-image-container">
+        <img src="{% static 'images/thankyou.png' %}" alt="Thank you" class="main-image">
+      </div>
+    </div>
+  </div>
+{% endblock %}

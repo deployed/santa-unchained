@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1895.15 1077.46">
+  <defs>
+    <linearGradient id="_åçûìÿííûé_ãðàäèåíò_25" data-name="Áåçûìÿííûé ãðàäèåíò 25" x1="2320.27" y1="791.86" x2="2368.84" y2="770.67" gradientTransform="translate(2930.95) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00eea8"/>
+      <stop offset="1" stop-color="#3f56ef"/>
+    </linearGradient>
+    <linearGradient id="_åçûìÿííûé_ãðàäèåíò_25-2" data-name="Áåçûìÿííûé ãðàäèåíò 25" x1="1972.02" y1="434.94" x2="2004.19" y2="434.94" gradientTransform="translate(3174.25 -227.93) rotate(170.63) scale(1 -1)" xlink:href="#_åçûìÿííûé_ãðàäèåíò_25"/>
+    <linearGradient id="_åçûìÿííûé_ãðàäèåíò_25-3" data-name="Áåçûìÿííûé ãðàäèåíò 25" x1="2907.24" y1="326.92" x2="2927.73" y2="326.92" gradientTransform="translate(3174.25 -227.93) rotate(170.63) scale(1 -1)" xlink:href="#_åçûìÿííûé_ãðàäèåíò_25"/>
+    <linearGradient id="_åçûìÿííûé_ãðàäèåíò_6" data-name="Áåçûìÿííûé ãðàäèåíò 6" x1="1718.1" y1="101.86" x2="1738.59" y2="101.86" gradientTransform="translate(3174.25 -227.93) rotate(170.63) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffaa67"/>
+      <stop offset=".05" stop-color="#ff9e6b"/>
+      <stop offset=".33" stop-color="#ff6682"/>
+      <stop offset=".46" stop-color="#ff518c"/>
+      <stop offset="1" stop-color="#5e309c"/>
+    </linearGradient>
+    <linearGradient id="_åçûìÿííûé_ãðàäèåíò_6-2" data-name="Áåçûìÿííûé ãðàäèåíò 6" x1="1973.87" y1="800.69" x2="2067.13" y2="800.69" gradientTransform="translate(3077.73) rotate(-180) scale(1 -1)" xlink:href="#_åçûìÿííûé_ãðàäèåíò_6"/>
+    <linearGradient id="_åçûìÿííûé_ãðàäèåíò_31" data-name="Áåçûìÿííûé ãðàäèåíò 31" x1="1833.35" y1="137.06" x2="1915.48" y2="137.06" gradientTransform="translate(2810.46 -231.28) rotate(170.4) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec6ccc"/>
+      <stop offset="1" stop-color="#005183"/>
+    </linearGradient>
+  </defs>
+  <g isolation="isolate">
+    <g id="Layer_1" data-name="Layer 1">
+      <ellipse cx="1305.92" cy="902.64" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1338.75" cy="893.64" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1179.39" cy="940.7" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1218.4" cy="940.7" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1170.54,872.67c0,.55-.52,.99-1.17,.99s-1.17-.44-1.17-.99,.53-.99,1.17-.99,1.17,.44,1.17,.99Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1064.16,891.39c0,1.84-1.77,3.33-3.94,3.33s-3.94-1.49-3.94-3.33,1.77-3.33,3.94-3.33,3.94,1.49,3.94,3.33Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1108.39" cy="853.24" rx="4.16" ry="3.51" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="568.95" cy="949.34" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="601.78" cy="940.34" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="442.42" cy="987.4" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="481.44" cy="987.4" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="432.4" cy="919.37" rx="1.17" ry=".99" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="371.43" cy="899.94" rx="4.16" ry="3.51" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1033.4" cy="816.93" rx="2.08" ry="1.75" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1004.3" cy="860.93" rx="1.76" ry="1.48" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1050.67" cy="939.48" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M847.41,823.57c0,.66-.64,1.2-1.42,1.2s-1.42-.54-1.42-1.2,.64-1.2,1.42-1.2,1.42,.54,1.42,1.2Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="930.75" cy="916" rx="1.76" ry="1.48" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="756.88" cy="788.35" rx="3.13" ry="2.64" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M696.22,821.13c0,1.35-1.3,2.44-2.89,2.44s-2.89-1.09-2.89-2.44,1.3-2.44,2.89-2.44,2.89,1.09,2.89,2.44Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1222.72" cy="736.76" rx="4.32" ry="3.64" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1292.91" cy="728.79" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1057.23" cy="702.61" rx=".96" ry=".81" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1097.84" cy="679.66" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="851.92" cy="617.31" rx="1.6" ry="1.35" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M924.1,601.83c0,.17-.16,.3-.36,.3s-.36-.13-.36-.3,.16-.3,.36-.3,.36,.13,.36,.3Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M736.36,581.18c0,1.31-1.26,2.38-2.82,2.38s-2.82-1.07-2.82-2.38,1.26-2.38,2.82-2.38,2.82,1.07,2.82,2.38Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="794.33" cy="547.57" rx="1.57" ry="1.33" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1293.55" cy="594.36" rx=".64" ry=".54" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1430.45,593.51c0,1.94-1.87,3.52-4.17,3.52s-4.17-1.58-4.17-3.52,1.87-3.52,4.17-3.52,4.17,1.58,4.17,3.52Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1471.48,623.73c0,1.31-1.26,2.38-2.81,2.38s-2.81-1.06-2.81-2.38,1.26-2.38,2.81-2.38,2.81,1.06,2.81,2.38Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1322.49" cy="476.26" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1285.88" cy="441.57" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1343.27" cy="395.57" rx="2.39" ry="2.02" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1393.95,471.27c0,.74-.71,1.34-1.59,1.34s-1.59-.6-1.59-1.34,.71-1.34,1.59-1.34,1.59,.6,1.59,1.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1413.79" cy="350.98" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1452.27,324.14c0,.98-.94,1.78-2.11,1.78s-2.11-.8-2.11-1.78,.94-1.78,2.11-1.78,2.11,.8,2.11,1.78Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1259.02,336.44c0,2.46-2.37,4.46-5.29,4.46s-5.29-2-5.29-4.46,2.37-4.46,5.29-4.46,5.29,2,5.29,4.46Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1291.31" cy="289.82" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1367.8,295.21c0,.76-.73,1.37-1.63,1.37s-1.63-.62-1.63-1.37,.73-1.37,1.63-1.37,1.63,.62,1.63,1.37Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1052.77,341.27c0,.68-.65,1.22-1.45,1.22s-1.45-.55-1.45-1.22,.65-1.22,1.45-1.22,1.45,.55,1.45,1.22Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1099.12" cy="338.96" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1030.97,279.32c0,.21-.21,.39-.46,.39s-.46-.17-.46-.39,.21-.39,.46-.39,.46,.17,.46,.39Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M908.26,374.25c0,1.58-1.52,2.86-3.39,2.86s-3.39-1.28-3.39-2.86,1.52-2.86,3.39-2.86,3.39,1.28,3.39,2.86Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M629.96,210.05c0,1.22-1.17,2.21-2.62,2.21s-2.62-.99-2.62-2.21,1.17-2.21,2.62-2.21,2.62,.99,2.62,2.21Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M972.63,149.54c0,.64-.62,1.17-1.38,1.17s-1.38-.52-1.38-1.17,.62-1.17,1.38-1.17,1.38,.52,1.38,1.17Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M812.16,166.68c0,1.48-1.42,2.68-3.17,2.68s-3.17-1.2-3.17-2.68,1.42-2.68,3.17-2.68,3.17,1.2,3.17,2.68Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="361.8" cy="366.98" rx="1.6" ry="1.35" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M426.5,388.03c0,.84-.81,1.53-1.81,1.53s-1.81-.69-1.81-1.53,.81-1.53,1.81-1.53,1.81,.68,1.81,1.53Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="462.85" cy="429.25" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="376.83" cy="452.37" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M698.53,43.6c0,1.04-1,1.89-2.23,1.89s-2.23-.84-2.23-1.89,1-1.89,2.23-1.89,2.23,.84,2.23,1.89Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M776.35,61.31c0,1.09-1.05,1.98-2.34,1.98s-2.35-.89-2.35-1.98,1.05-1.98,2.35-1.98,2.34,.89,2.34,1.98Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M885.78,49.32c0,.63-.61,1.14-1.35,1.14s-1.35-.51-1.35-1.14,.61-1.14,1.35-1.14,1.35,.51,1.35,1.14Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1269.14" cy="104.59" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1346.85,97.67c0,1.69-1.62,3.06-3.62,3.06s-3.62-1.37-3.62-3.06,1.62-3.06,3.62-3.06,3.62,1.37,3.62,3.06Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1172.37,118.71c0,1.29-1.24,2.34-2.77,2.34s-2.77-1.05-2.77-2.34,1.24-2.34,2.77-2.34,2.77,1.05,2.77,2.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1482.23" cy="79.31" rx="3.2" ry="2.7" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M629.32,310.43c0,1.01-.97,1.83-2.17,1.83s-2.17-.82-2.17-1.83,.97-1.83,2.17-1.83,2.17,.82,2.17,1.83Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M669.97,88.76c0,1.14-1.1,2.07-2.45,2.07s-2.45-.93-2.45-2.07,1.1-2.07,2.45-2.07,2.45,.93,2.45,2.07Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1066.28,52.77c0,.55-.52,.99-1.17,.99s-1.17-.44-1.17-.99,.52-.99,1.17-.99,1.17,.44,1.17,.99Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1323.61,210.05c0,.55-.52,.99-1.17,.99s-1.17-.44-1.17-.99,.53-.99,1.17-.99,1.17,.44,1.17,.99Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1455.87,163.47c0,1.06-1.02,1.92-2.28,1.92s-2.28-.86-2.28-1.92,1.02-1.92,2.28-1.92,2.28,.86,2.28,1.92Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1361.31,541.98c0,.59-.56,1.06-1.26,1.06s-1.26-.48-1.26-1.06,.56-1.06,1.26-1.06,1.26,.48,1.26,1.06Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1168.62,585.36c0,1.29-1.24,2.34-2.77,2.34s-2.77-1.05-2.77-2.34,1.24-2.34,2.77-2.34,2.77,1.05,2.77,2.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1031.11,528.4c0,.84-.81,1.53-1.81,1.53s-1.81-.69-1.81-1.53,.81-1.53,1.81-1.53,1.81,.68,1.81,1.53Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="894.03" cy="437.97" rx="3.84" ry="3.24" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M865.89,925.13c0,1.09-1.05,1.98-2.34,1.98s-2.35-.89-2.35-1.98,1.05-1.98,2.35-1.98,2.34,.89,2.34,1.98Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M975.04,873.12c0,.8-.76,1.44-1.71,1.44s-1.71-.64-1.71-1.44,.76-1.44,1.71-1.44,1.71,.64,1.71,1.44Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M722.2,872.22c0,1.29-1.24,2.34-2.77,2.34s-2.77-1.05-2.77-2.34,1.24-2.34,2.77-2.34,2.77,1.05,2.77,2.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="678.28" cy="716.92" rx="3.84" ry="3.24" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="755.31" cy="708.88" rx="1.56" ry="1.32" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1230.23,560.08c0,1.24-1.19,2.25-2.66,2.25s-2.66-1.01-2.66-2.25,1.19-2.25,2.66-2.25,2.66,1.01,2.66,2.25Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M164.29,867c0,2.01-1.93,3.64-4.32,3.64s-4.32-1.63-4.32-3.64,1.93-3.64,4.32-3.64,4.32,1.63,4.32,3.64Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="230.17" cy="859.04" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="35.1" cy="809.91" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="230.81" cy="724.61" rx=".64" ry=".54" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M367.7,723.76c0,1.94-1.87,3.52-4.17,3.52s-4.17-1.58-4.17-3.52,1.87-3.52,4.17-3.52,4.17,1.58,4.17,3.52Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M408.74,753.98c0,1.31-1.26,2.38-2.81,2.38s-2.81-1.06-2.81-2.38,1.26-2.38,2.81-2.38,2.81,1.06,2.81,2.38Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M261.19,606.51c0,.67-.64,1.21-1.44,1.21s-1.44-.54-1.44-1.21,.64-1.21,1.44-1.21,1.44,.54,1.44,1.21Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="223.13" cy="571.82" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M331.2,601.52c0,.74-.71,1.34-1.59,1.34s-1.59-.6-1.59-1.34,.71-1.34,1.59-1.34,1.59,.6,1.59,1.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M298.57,672.22c0,.59-.56,1.06-1.26,1.06s-1.26-.48-1.26-1.06,.56-1.06,1.26-1.06,1.26,.48,1.26,1.06Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M105.88,715.61c0,1.29-1.24,2.34-2.77,2.34s-2.77-1.05-2.77-2.34,1.24-2.34,2.77-2.34,2.77,1.05,2.77,2.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M167.49,690.33c0,1.24-1.19,2.25-2.67,2.25s-2.66-1.01-2.66-2.25,1.19-2.25,2.66-2.25,2.67,1.01,2.67,2.25Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1024.75,603.67c0,.85-.82,1.54-1.83,1.54s-1.83-.69-1.83-1.54,.82-1.54,1.83-1.54,1.83,.69,1.83,1.54Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1075.41,216.21c0,1.12-1.08,2.03-2.4,2.03s-2.4-.91-2.4-2.03,1.08-2.03,2.4-2.03,2.4,.91,2.4,2.03Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1166.66" cy="261.47" rx="1.34" ry="1.13" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="934.89" cy="758.97" rx="2.37" ry="2" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="941.23" cy="997.36" rx="4.33" ry="3.66" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="980.07" cy="962.4" rx="1.6" ry="1.35" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="955.44" cy="1053.37" rx="1.92" ry="1.62" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="800.18" cy="1018.41" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="745.34" cy="948.49" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="773.32" cy="932.57" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="645.7" cy="1040.51" rx="1.09" ry=".92" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1434.89" cy="730.41" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1467.72" cy="721.41" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1347.37" cy="768.47" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1666.12" cy="799.48" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1611.28" cy="729.56" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1639.26" cy="713.64" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1512.73,821.58c0,.51-.49,.92-1.09,.92s-1.09-.41-1.09-.92,.49-.92,1.09-.92,1.09,.41,1.09,.92Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M941.87,663.9c0,1.08-1.03,1.95-2.31,1.95s-2.31-.87-2.31-1.95,1.03-1.95,2.31-1.95,2.31,.87,2.31,1.95Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M687.74,443.54c0,.36-.35,.66-.78,.66s-.78-.29-.78-.66,.35-.66,.78-.66,.78,.29,.78,.66Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="783.4" cy="356.37" rx="3.84" ry="3.24" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M832.3,376.94c0,.09-.09,.16-.19,.16s-.19-.07-.19-.16,.09-.16,.19-.16,.19,.07,.19,.16Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="668.76" cy="364.14" rx="1.77" ry="1.49" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M755.92,459.75c0,1.94-1.87,3.52-4.17,3.52s-4.17-1.58-4.17-3.52,1.87-3.52,4.17-3.52,4.17,1.58,4.17,3.52Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M573.32,502.98c0,2.17-2.08,3.93-4.65,3.93s-4.65-1.76-4.65-3.93,2.08-3.93,4.65-3.93,4.65,1.76,4.65,3.93Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="627.34" cy="538.74" rx="5.12" ry="4.32" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M510.87,600.4c0,.62-.6,1.12-1.33,1.12s-1.33-.5-1.33-1.12,.6-1.12,1.33-1.12,1.33,.5,1.33,1.12Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M502.68,519.92c0,1.21-1.16,2.18-2.59,2.18s-2.59-.98-2.59-2.18,1.16-2.18,2.59-2.18,2.59,.98,2.59,2.18Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="529.96" cy="658.58" rx="1.76" ry="1.48" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="368.4" cy="631.72" rx="4.48" ry="3.78" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="375.55" cy="699.2" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M523.85,309.03c0,.77-.74,1.4-1.66,1.4s-1.66-.63-1.66-1.4,.74-1.4,1.66-1.4,1.66,.63,1.66,1.4Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="759.98" cy="274.5" rx="4.07" ry="3.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="909.37" cy="233.84" rx="4.5" ry="3.79" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M996.08,59.09c0,.13-.13,.24-.28,.24s-.28-.11-.28-.24,.13-.24,.28-.24,.28,.11,.28,.24Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1077.44,1032.76c0,1.09-1.05,1.98-2.34,1.98s-2.35-.89-2.35-1.98,1.05-1.98,2.35-1.98,2.34,.89,2.34,1.98Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1186.87,1020.77c0,.63-.61,1.14-1.35,1.14s-1.35-.51-1.35-1.14,.61-1.14,1.35-1.14,1.35,.51,1.35,1.14Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1297.17,1030.54c0,.13-.13,.24-.28,.24s-.28-.11-.28-.24,.13-.24,.28-.24,.28,.11,.28,.24Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1850.28,343.58c0,.68-.65,1.22-1.45,1.22s-1.45-.55-1.45-1.22,.65-1.22,1.45-1.22,1.45,.55,1.45,1.22Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1828.47,281.63c0,.21-.21,.39-.46,.39s-.46-.17-.46-.39,.21-.39,.46-.39,.46,.17,.46,.39Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1681.96,146.5c0,.64-.62,1.17-1.38,1.17s-1.38-.52-1.38-1.17,.62-1.17,1.38-1.17,1.38,.52,1.38,1.17Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1683.29,51.63c0,.63-.61,1.14-1.35,1.14s-1.35-.51-1.35-1.14,.61-1.14,1.35-1.14,1.35,.51,1.35,1.14Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1790.61" cy="180.83" rx="2.4" ry="2.03" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1706.88" cy="236.15" rx="4.5" ry="3.79" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1793.58,61.41c0,.13-.13,.24-.28,.24s-.28-.11-.28-.24,.13-.24,.28-.24,.28,.11,.28,.24Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="378.11" cy="198.73" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="424.15" cy="155.37" rx="1.61" ry="1.36" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1624.74" cy="472.61" rx="1.6" ry="1.35" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1635.43,546.01c0,.84-.81,1.53-1.81,1.53s-1.81-.68-1.81-1.53,.81-1.53,1.81-1.53,1.81,.69,1.81,1.53Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1711.61" cy="572.5" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1585.76" cy="610.35" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1838.25,468.41c0,1.01-.97,1.83-2.17,1.83s-2.17-.82-2.17-1.83,.97-1.83,2.17-1.83,2.17,.82,2.17,1.83Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1782.25,660.95c0,2.17-2.08,3.93-4.65,3.93s-4.65-1.76-4.65-3.93,2.08-3.93,4.65-3.93,4.65,1.76,4.65,3.93Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1836.27" cy="696.72" rx="5.12" ry="4.32" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1719.8,758.38c0,.62-.6,1.12-1.33,1.12s-1.33-.5-1.33-1.12,.6-1.12,1.33-1.12,1.33,.5,1.33,1.12Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1709.02" cy="677.9" rx="2.59" ry="2.18" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1738.9" cy="816.55" rx="1.76" ry="1.48" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1577.34" cy="789.69" rx="4.48" ry="3.78" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1109.69" cy="361.61" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1732.78,467.01c0,.77-.74,1.4-1.66,1.4s-1.66-.63-1.66-1.4,.74-1.4,1.66-1.4,1.66,.63,1.66,1.4Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1641.98" cy="376.78" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1634.69,313.35c0,.75-.72,1.36-1.61,1.36s-1.61-.61-1.61-1.36,.72-1.36,1.61-1.36,1.61,.61,1.61,1.36Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M1532.64,226.11c0,1.41-1.35,2.54-3.01,2.54s-3.01-1.14-3.01-2.54,1.35-2.54,3.01-2.54,3.01,1.14,3.01,2.54Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="1564.55" cy="410.24" rx="4.58" ry="3.86" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="230.15" cy="431.5" rx="1.44" ry="1.21" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="193.54" cy="396.81" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M253.32,350.81c0,1.11-1.07,2.02-2.39,2.02s-2.39-.9-2.39-2.02,1.07-2.02,2.39-2.02,2.39,.9,2.39,2.02Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M301.61,426.51c0,.74-.71,1.34-1.59,1.34s-1.59-.6-1.59-1.34,.71-1.34,1.59-1.34,1.59,.6,1.59,1.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="321.45" cy="306.21" rx="2.56" ry="2.16" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M359.94,279.37c0,.98-.94,1.78-2.11,1.78s-2.11-.8-2.11-1.78,.94-1.78,2.11-1.78,2.11,.8,2.11,1.78Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="161.39" cy="291.68" rx="5.29" ry="4.46" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="198.98" cy="245.06" rx="2.88" ry="2.43" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M275.46,250.45c0,.76-.73,1.37-1.63,1.37s-1.63-.62-1.63-1.37,.73-1.37,1.63-1.37,1.63,.62,1.63,1.37Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M68.18,126.69c0,1.29-1.24,2.34-2.77,2.34s-2.77-1.05-2.77-2.34,1.24-2.34,2.77-2.34,2.77,1.05,2.77,2.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M363.53,118.71c0,1.06-1.02,1.92-2.28,1.92s-2.28-.86-2.28-1.92,1.02-1.92,2.28-1.92,2.28,.86,2.28,1.92Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M268.97,497.21c0,.59-.56,1.06-1.26,1.06s-1.26-.48-1.26-1.06,.56-1.06,1.26-1.06,1.26,.48,1.26,1.06Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M76.28,540.6c0,1.29-1.24,2.34-2.77,2.34s-2.77-1.05-2.77-2.34,1.24-2.34,2.77-2.34,2.77,1.05,2.77,2.34Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M137.9,515.32c0,1.24-1.19,2.25-2.66,2.25s-2.66-1.01-2.66-2.25,1.19-2.25,2.66-2.25,2.66,1.01,2.66,2.25Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="74.32" cy="216.71" rx="1.34" ry="1.13" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="478.39" cy="480.19" rx="1.6" ry="1.35" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M543.09,501.25c0,.84-.81,1.53-1.81,1.53s-1.81-.68-1.81-1.53,.81-1.53,1.81-1.53,1.81,.68,1.81,1.53Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <ellipse cx="494.7" cy="311.94" rx="1.28" ry="1.08" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M542.35,268.58c0,.75-.72,1.36-1.61,1.36s-1.61-.61-1.61-1.36,.72-1.36,1.61-1.36,1.61,.61,1.61,1.36Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M440.3,181.35c0,1.41-1.35,2.54-3.01,2.54s-3.01-1.14-3.01-2.54,1.35-2.54,3.01-2.54,3.01,1.14,3.01,2.54Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <path d="M476.79,365.48c0,2.13-2.05,3.86-4.58,3.86s-4.58-1.73-4.58-3.86,2.05-3.86,4.58-3.86,4.58,1.73,4.58,3.86Z" fill="#fff" mix-blend-mode="color-dodge"/>
+      <g>
+        <path d="M557.59,766.03c4.18,1.33,8.31,3.09,12.78,3.15,1.14,.02,2.35-.05,3.33,.44,1.12,.57,1.61,1.7,2.29,2.64,2.09,2.87,6.27,4.06,10.17,4.76,3.9,.7,8.08,1.2,11.18,3.32,3.1,2.12,4.34,6.6,1.3,8.78-2.03,1.46-5.16,1.31-7.54,.29-2.38-1.01-4.22-2.72-6.11-4.31-5.34-4.47-11.54-8.2-18.28-11-7.95-3.31-114.92-52.73-136.55-63.41,47.17,22.18,106.02,48.52,127.43,55.33Z" fill="url(#_åçûìÿííûé_ãðàäèåíò_25)"/>
+        <path d="M1292.36,527.5c.35,.1,.7,.2,1.01,.37,.27,.15,.5,.35,.78,.5,.36,.19,.78,.27,1.19,.35,.92,.17,1.83,.34,2.75,.52,.75,.14,1.55,.3,2.1,.76s.72,1.31,.13,1.73c-.61,.44-1.55,.16-2.26-.16-1.33-.61-2.59-1.32-3.9-1.97-2.1-1.05-4.3-1.93-6.5-2.82l-7.17-2.89c-4.85-1.95-9.69-3.91-14.54-5.86,3.87,1.56,7.98,2.77,11.88,4.33,4.75,1.9,9.55,3.73,14.53,5.16Z" fill="url(#_åçûìÿííûé_ãðàäèåíò_25-2)"/>
+        <path d="M354.5,571.27c.22,.06,.45,.13,.64,.23,.17,.1,.32,.23,.49,.32,.23,.12,.5,.17,.76,.22,.58,.11,1.17,.22,1.75,.33,.48,.09,.99,.19,1.34,.48,.35,.29,.46,.83,.08,1.1-.39,.28-.99,.1-1.44-.1-.85-.39-1.65-.84-2.48-1.26-1.34-.67-2.74-1.23-4.14-1.8-1.52-.61-3.05-1.23-4.57-1.84-3.09-1.24-6.17-2.49-9.26-3.73,2.47,.99,5.08,1.77,7.56,2.76,3.03,1.21,6.08,2.38,9.26,3.28Z" fill="url(#_åçûìÿííûé_ãðàäèåíò_25-3)"/>
+        <path d="M1491.18,155.61c.22,.06,.45,.13,.64,.23,.17,.1,.32,.23,.49,.32,.23,.12,.5,.17,.76,.22,.58,.11,1.17,.22,1.75,.33,.48,.09,.99,.19,1.34,.48s.46,.83,.08,1.1c-.39,.28-.99,.1-1.44-.1-.85-.39-1.65-.84-2.48-1.26-1.34-.67-2.74-1.23-4.14-1.8-1.52-.61-3.05-1.23-4.57-1.84-3.09-1.24-6.17-2.49-9.26-3.73,2.47,.99,5.08,1.77,7.56,2.76,3.03,1.21,6.08,2.38,9.26,3.28Z" fill="url(#_åçûìÿííûé_ãðàäèåíò_6)"/>
+        <path d="M1064.99,805.14c3.03,1.51,6.21,3.07,9.72,3.29,3.13,.2,6.71-.59,9.12,1.1,1.73,1.21,3.3,3.67,5.29,2.79,0,1.99,2.93,2.82,5.2,3.35,3.46,.82,6.72,2.24,9.51,4.14,.14,1.28-1.45,2.3-2.97,2.33-1.52,.02-2.91-.66-4.19-1.35-2.82-1.52-5.53-3.17-8.12-4.94-.82-.56-1.63-1.14-2.53-1.62-1.25-.66-2.64-1.12-4.01-1.58-25.41-8.71-48.3-21.12-71.42-33.4,7.25,4.58,15.71,6.58,23.51,10.48,10.29,5.14,20.58,10.28,30.88,15.41Z" fill="url(#_åçûìÿííûé_ãðàäèåíò_6-2)"/>
+        <path d="M994.36,219.37c5.58,1.73,11.2,3.46,17.06,4.35,3.06,.46,6.17,.69,9.27,.68,3.11-.01,7.17,.29,7.92,2.84,.55,1.88-1.52,3.77-3.79,4-2.27,.24-4.49-.77-6.17-2.08-.69-.54-1.35-1.15-2.2-1.5-1.59-.65-3.5-.25-5.2-.64-2.1-.48-3.56-2.04-5.42-3.01-2.26-1.18-5.01-1.41-7.59-1.94-2.71-.56-5.3-1.48-7.88-2.4l-49.27-17.54c17.88,5.44,35.39,11.7,53.27,17.24Z" fill="url(#_åçûìÿííûé_ãðàäèåíò_31)"/>
+      </g>
+      <rect x="9.18" y="-.06" width="1918.73" height="1079.78" fill="none"/>
+    </g>
+  </g>
+</svg>
