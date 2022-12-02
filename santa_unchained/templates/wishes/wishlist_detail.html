@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% load static i18n %}
+
+{% block extra_styles %}
+  <link rel="stylesheet" href="{% static 'css/wishlist.css' %}">
+{% endblock %}
+
+
+{% block content %}
+  <div class="row">
+    <div class="col-7-md col-12">
+      <div class="card">
+        <div class="form-title">
+          {% trans "Wishlist" %} <span class="text-primary">{% trans "details" %}</span>
+        </div>
+        <div class="form-content">
+          {% comment %}
+          Here show details of wishlist such as: status, address, gifts
+          {% endcomment %}
+        </div>
+      </div>
+    </div>
+    <div class="col-5-md col-12 is-center">
+      <div class="main-image-container">
+        <img src="{% static 'images/delivery.png' %}" alt="Thank you" class="main-image">
+      </div>
+    </div>
+  </div>
+{% endblock %}

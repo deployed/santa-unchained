@@ -30,7 +30,9 @@ THIRD_PARTY_APPS = [
     "django_extensions",
 ]
 
-LOCAL_APPS = ["santa_unchained.accounts.apps.AccountsConfig"]
+LOCAL_APPS = [
+    "santa_unchained.accounts.apps.AccountsConfig",
+]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 

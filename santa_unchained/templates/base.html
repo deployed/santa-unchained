@@ -1,47 +1,79 @@
-{% load static %}
+{% load static i18n %}
 
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width,initial-scale=1"/>
-        <meta name="description" content="Santa Claus letter management app"/>
-        <link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.ico' %}"/>
-        <link rel="stylesheet" href="{% static 'css/chota.min.css' %}">
-        <link rel="stylesheet" href="{% static 'css/base.css' %}">
-        <title>Santa Unchained</title>
-    </head>
-    <body>
-        <header>
-            <nav class="nav">
-                <div class="nav-left">
-                    <a class="brand" href="/">
-                        <img src="{% static 'images/santa_sleigh.svg' %}" alt="Santa Unchained Logo" id="main-logo">
-                        Santa Unchained
-                    </a>
-                    <div class="tabs">
-                        <a>Link 1</a>
-                        <a class="active">Link 2</a>
-                    </div>
-                </div>
-                <div class="nav-right">
-                    <a class="button outline">Button</a>
-                </div>
-            </nav>
-        </header>
-        <main>
-            {% block content %}{% endblock %}
-        </main>
-        <footer class="text-center">
-            <h4>Made by
-                <a href="https://deployed.pl/" target="_blank">
-                    <img src="{% static 'images/deployed.png' %}" alt="Deployed.pl" id="footer-deployed-logo">
-                </a>
-                with
-                <a href="http://kernel.fis.agh.edu.pl/" target="_blank">
-                    <img src="{% static 'images/kernel.png' %}" alt="KNI Kernel" id="footer-kernel-logo">
-                </a>
-            </h4>
-        </footer>
-    </body>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="description" content="Santa Claus letter management app"/>
+  <link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.ico' %}"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Asap:400,800">
+  <link rel="stylesheet" href="{% static 'css/chota.min.css' %}">
+  <link rel="stylesheet" href="{% static 'css/css.gg.css' %}">
+  <link rel="stylesheet" href="{% static 'css/base.css' %}">
+  {% block extra_styles %}{% endblock %}
+  <title>Santa Unchained</title>
+</head>
+<body>
+<div class="content-wrapper">
+  <header>
+    <div class="content">
+      <nav class="nav">
+        <div class="nav-left">
+          <a href="/">
+            <img src="{% static 'images/logo.svg' %}" alt="Santa Unchained Logo" class="main-logo">
+          </a>
+        </div>
+        <div class="nav-right">
+          <a href="{% url 'accounts:index' %}">{% trans "Home" %}</a>
+          {% comment %}
+          Fill in url to create wishlist.
+          {% endcomment %}
+          <a href=""
+             class="button primary radius-100">{% trans "Create letter" %}</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="content">
+      {% block content %}{% endblock %}
+    </div>
+  </main>
+  <footer>
+    <div class="content">
+      <div class="row">
+        <div class="col-6">
+          <div class="stack">
+            <div class="logs-container">
+              <a href="http://kernel.fis.agh.edu.pl/" target="_blank">
+                <img src="{% static 'images/kernel.svg' %}" alt="KNI Kernel" class="logo-kernel">
+              </a>
+              <a href="https://deployed.pl/" target="_blank">
+                <img src="{% static 'images/deployed.png' %}" alt="Deployed.pl" class="logo-deployed">
+              </a>
+            </div>
+            <div style="font-style: italic">{% trans "Official providers of Santa Claus" %}</div>
+            <div style="margin-top: 10px">
+              Juliusza Lea 114/413<br>
+              30-133 Kraków
+            </div>
+          </div>
+        </div>
+        <div class="col-6 text-right">
+          <a href="https://www.facebook.com/deployedpl/" target="_blank">
+            <img src="{% static 'images/icons/fb.svg' %}" alt="deployed facebook" class="social-icon">
+          </a>
+          <a href="https://github.com/deployed/" target="_blank">
+            <img src="{% static 'images/icons/git.svg' %}" alt="deployed facebook" class="social-icon">
+          </a>
+          <a href="https://www.linkedin.com/company/deployedpl/" target="_blank">
+            <img src="{% static 'images/icons/linkedin.svg' %}" alt="deployed facebook" class="social-icon">
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+</body>
 </html>

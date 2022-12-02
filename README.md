@@ -24,3 +24,11 @@ virtualenv venv
 source venv/bin/activate
 make bootstrap
 ```
+
+Default users in fixtures:
+
+| Username | Password  |
+|----------|-----------|
+| admin    | admin321! |
+| santa    | admin321! |
+| elf      | admin321! |

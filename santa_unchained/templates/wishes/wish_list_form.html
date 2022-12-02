@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static i18n %}
+
+{% block extra_styles %}
+  <link rel="stylesheet" href="{% static 'css/wishlist.css' %}">
+{% endblock %}
+
+{% block content %}
+  <div class="row">
+    <div class="col-7-md col-12">
+      <div class="card">
+        <div class="form-title">
+          {% trans "Create your" %} <span class="text-primary">{% trans "wish list" %}</span>
+        </div>
+        <div class="form-content">
+          <form method="post" novalidate>{% csrf_token %}
+            {% comment %}
+            Here place your form - use grid layout from chota.
+            {% endcomment %}
+            <div class="is-center">
+              <input class="button secondary radius-10" type="submit" value="Send a wish list">
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="col-5-md col-12 is-center">
+      <div class="main-image-container">
+        <img src="{% static 'images/gift.png' %}" alt="Gift" class="main-image">
+      </div>
+    </div>
+  </div>
+{% endblock %}

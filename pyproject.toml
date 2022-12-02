@@ -9,6 +9,7 @@ dependencies = [
     "psycopg2-binary",
     "ipython",
     "environs",
+    "requests",
 ]
 
 [project.optional-dependencies]
@@ -19,9 +20,10 @@ dev = [
     "pytest-sugar",
     "pytest-xdist",
     "flake8",
-    "flake8-formatter-abspath",
     "black",
     "isort",
+    "factory_boy",
+    "pytest-factoryboy",
 ]
 
 [tool.black]
